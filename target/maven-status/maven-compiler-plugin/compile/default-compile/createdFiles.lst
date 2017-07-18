@@ -1,0 +1,3 @@
+com\nemeth\soter\jquery\App.class
+com\nemeth\soter\jquery\controllers\HomeController.class
+com\nemeth\soter\jquery\config\MvcConfig.class
